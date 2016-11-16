@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\scissors.jpg",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\scissors.jpg"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ducky.jpg",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\ducky.jpg"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\block.jpg",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\block.jpg"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\jellies.jpg",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\jellies.jpg"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ball.jpg",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\ball.jpg"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\frantic.jpg",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\frantic.jpg"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pencil.jpg",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\pencil.jpg"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\woot.jpg",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\woot.jpg"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\mug.jpg",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\mug.jpg"
+    }
+]

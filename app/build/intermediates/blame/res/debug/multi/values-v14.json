@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\values-v14\\bools.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 52,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 76,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 790,
+                        "endColumn": 77,
+                        "endOffset": 863
+                    }
+                }
+            }
+        ]
+    }
+]

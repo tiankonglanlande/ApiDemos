@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\logonodpi160.png",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\logonodpi160.png"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\logonodpi120.png",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\logonodpi120.png"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\logonodpi240.png",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\logonodpi240.png"
+    }
+]

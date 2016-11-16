@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\resources_smallest_width_row.xml",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\layout-sw600dp\\resources_smallest_width_row.xml"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\resources_smallest_width_inner.xml",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\layout-sw600dp\\resources_smallest_width_inner.xml"
+    }
+]

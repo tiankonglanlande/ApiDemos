@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\grid_layout_2.xml",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\layout-land\\grid_layout_2.xml"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_arguments.xml",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\layout-land\\fragment_arguments.xml"
+    },
+    {
+        "merged": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_layout.xml",
+        "source": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\layout-land\\fragment_layout.xml"
+    }
+]

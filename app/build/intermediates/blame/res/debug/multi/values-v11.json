@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "E:\\Learn\\apidemo\\ApiDemos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\values-v11\\bools.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 45,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 61,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 62,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 74,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endColumn": 75,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endColumn": 67,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1278,
+                        "endColumn": 68,
+                        "endOffset": 1342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 91,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "E:\\Learn\\apidemo\\ApiDemos\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 92,
+                        "endOffset": 1184
+                    }
+                }
+            }
+        ]
+    }
+]

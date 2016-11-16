@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_7392b7ec881bb9fc2e250f48a454a49314ecda97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_114451c3a81aa1890d77034c955ab9c8b9ae3bd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\android-studio-2.1preview5\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_e82809354f882dfc88253367960668ba98cb43ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_830d5717f151fe6d48197ecc5d277e761b1cb0ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_6de97614f2daf94a27bcdbce95a32895ca987e52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f666c71b7e2503f822ac7cb4b3504c93477847b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_9219efa79e2e14dd28de0f051236156a21a2c658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8a85f346fafcf9c240d7456983d8edfc66c075f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_ea01dd2594837b8a9732403229fd1a7d871d894e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_55cf57cbb8e3025438720cc51c3f3ae292944ac0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9efd2a4d8a3110c5e12261093c06bc473b952ade\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e57683dbf478ae5b406bd3ae5aaebff22bd196c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f92116cc4f66df91fb18b7a193df79488d4c8b0e">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_529fcb03e3e73c27dc9ae090deafedd113e144ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learn\apidemo\ApiDemos\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ef751d581b5c48cfc40330038fa91dc6ecd24edf">
+        <dex dex="E:\Learn\apidemo\ApiDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_af105a39f727a888e689044d9738f9abfc1c5886\classes.dex" />
+    </item>
+
+</items>
