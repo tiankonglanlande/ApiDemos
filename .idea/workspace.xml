@@ -66,36 +66,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MmsMessagingDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MmsMessagingDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/apis/os/MmsMessagingDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="400" column="52" selection-start-line="400" selection-start-column="52" selection-end-line="400" selection-end-column="52" />
+            <state relative-caret-position="161">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
               <folding>
-                <marker date="1479218847237" expanded="false" signature="1420:1527" ph="(context, intent) → {" />
-                <marker date="1479218847237" expanded="false" signature="1587:1598" ph="}" />
-                <marker date="1479218847237" expanded="false" signature="1725:1832" ph="(context, intent) → {" />
-                <marker date="1479218847237" expanded="false" signature="1905:1916" ph="}" />
-                <marker date="1479218847237" expanded="false" signature="3082:3217" ph="(buttonView, isChecked) → {" />
-                <marker date="1479218847237" expanded="false" signature="3594:3609" ph="}" />
-                <marker date="1479218847237" expanded="false" signature="4011:4103" ph="(v) → {" />
-                <marker date="1479218847237" expanded="false" signature="4322:4337" ph="}" />
-                <marker date="1479218847237" expanded="false" signature="4868:4921" ph="&quot;Sending&quot;" />
-                <marker date="1479218847237" expanded="false" signature="5207:5277" ph="() → {" />
-                <marker date="1479218847237" expanded="false" signature="7065:7080" ph="}" />
-                <marker date="1479218847237" expanded="false" signature="7233:7290" ph="&quot;Downloading&quot;" />
-                <marker date="1479218847237" expanded="false" signature="7688:7758" ph="() → {" />
-                <marker date="1479218847237" expanded="false" signature="8394:8409" ph="}" />
-                <marker date="1479218847237" expanded="false" signature="8529:8555" ph="&quot;Failed&quot;" />
-                <marker date="1479218847237" expanded="false" signature="9099:9123" ph="&quot;Sent OK&quot;" />
-                <marker date="1479218847237" expanded="false" signature="10034:10060" ph="&quot;Failed&quot;" />
-                <marker date="1479218847237" expanded="false" signature="10980:11010" ph="&quot;Downloaded&quot;" />
+                <marker date="1479311164990" expanded="false" signature="1441:1548" ph="(context, intent) → {" />
+                <marker date="1479311164990" expanded="false" signature="1608:1619" ph="}" />
+                <marker date="1479311164990" expanded="false" signature="1746:1853" ph="(context, intent) → {" />
+                <marker date="1479311164990" expanded="false" signature="1926:1937" ph="}" />
+                <marker date="1479311164990" expanded="false" signature="3103:3238" ph="(buttonView, isChecked) → {" />
+                <marker date="1479311164990" expanded="false" signature="3615:3630" ph="}" />
+                <marker date="1479311164990" expanded="false" signature="4032:4124" ph="(v) → {" />
+                <marker date="1479311164990" expanded="false" signature="4343:4358" ph="}" />
+                <marker date="1479311164990" expanded="false" signature="4889:4942" ph="&quot;Sending&quot;" />
+                <marker date="1479311164990" expanded="false" signature="5228:5298" ph="() → {" />
+                <marker date="1479311164990" expanded="false" signature="7086:7101" ph="}" />
+                <marker date="1479311164990" expanded="false" signature="7254:7311" ph="&quot;Downloading&quot;" />
+                <marker date="1479311164990" expanded="false" signature="7709:7779" ph="() → {" />
+                <marker date="1479311164990" expanded="false" signature="8415:8430" ph="}" />
+                <marker date="1479311164990" expanded="false" signature="8550:8576" ph="&quot;Failed&quot;" />
+                <marker date="1479311164990" expanded="false" signature="9120:9144" ph="&quot;Sent OK&quot;" />
+                <marker date="1479311164990" expanded="false" signature="10055:10081" ph="&quot;Failed&quot;" />
+                <marker date="1479311164990" expanded="false" signature="11001:11031" ph="&quot;Downloaded&quot;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -1695,12 +1695,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/apis/os/MmsMessagingDemo.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/apis/os/MmsWapPushReceiver.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/apis/app/AlarmService_Service.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/apis/app/IncomingMessage.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/apis/animation/ActivityTransition.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/apis/os/MmsMessagingDemo.java" />
       </list>
     </option>
   </component>
@@ -2216,24 +2216,24 @@
         <state relative-caret-position="8924">
           <caret line="419" column="0" selection-start-line="419" selection-start-column="0" selection-end-line="419" selection-end-column="2" />
           <folding>
-            <marker date="1479218847237" expanded="false" signature="1420:1527" ph="(context, intent) → {" />
-            <marker date="1479218847237" expanded="false" signature="1587:1598" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="1725:1832" ph="(context, intent) → {" />
-            <marker date="1479218847237" expanded="false" signature="1905:1916" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="3082:3217" ph="(buttonView, isChecked) → {" />
-            <marker date="1479218847237" expanded="false" signature="3594:3609" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="4011:4103" ph="(v) → {" />
-            <marker date="1479218847237" expanded="false" signature="4322:4337" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="4868:4921" ph="&quot;Sending&quot;" />
-            <marker date="1479218847237" expanded="false" signature="5207:5277" ph="() → {" />
-            <marker date="1479218847237" expanded="false" signature="7065:7080" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="7233:7290" ph="&quot;Downloading&quot;" />
-            <marker date="1479218847237" expanded="false" signature="7688:7758" ph="() → {" />
-            <marker date="1479218847237" expanded="false" signature="8394:8409" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="8529:8555" ph="&quot;Failed&quot;" />
-            <marker date="1479218847237" expanded="false" signature="9099:9123" ph="&quot;Sent OK&quot;" />
-            <marker date="1479218847237" expanded="false" signature="10034:10060" ph="&quot;Failed&quot;" />
-            <marker date="1479218847237" expanded="false" signature="10980:11010" ph="&quot;Downloaded&quot;" />
+            <marker date="1479311164990" expanded="false" signature="1441:1548" ph="(context, intent) → {" />
+            <marker date="1479311164990" expanded="false" signature="1608:1619" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="1746:1853" ph="(context, intent) → {" />
+            <marker date="1479311164990" expanded="false" signature="1926:1937" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="3103:3238" ph="(buttonView, isChecked) → {" />
+            <marker date="1479311164990" expanded="false" signature="3615:3630" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="4032:4124" ph="(v) → {" />
+            <marker date="1479311164990" expanded="false" signature="4343:4358" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="4889:4942" ph="&quot;Sending&quot;" />
+            <marker date="1479311164990" expanded="false" signature="5228:5298" ph="() → {" />
+            <marker date="1479311164990" expanded="false" signature="7086:7101" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="7254:7311" ph="&quot;Downloading&quot;" />
+            <marker date="1479311164990" expanded="false" signature="7709:7779" ph="() → {" />
+            <marker date="1479311164990" expanded="false" signature="8415:8430" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="8550:8576" ph="&quot;Failed&quot;" />
+            <marker date="1479311164990" expanded="false" signature="9120:9144" ph="&quot;Sent OK&quot;" />
+            <marker date="1479311164990" expanded="false" signature="10055:10081" ph="&quot;Failed&quot;" />
+            <marker date="1479311164990" expanded="false" signature="11001:11031" ph="&quot;Downloaded&quot;" />
           </folding>
         </state>
       </provider>
@@ -2450,38 +2450,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/apis/os/MmsMessagingDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="400" column="52" selection-start-line="400" selection-start-column="52" selection-end-line="400" selection-end-column="52" />
-          <folding>
-            <marker date="1479218847237" expanded="false" signature="1420:1527" ph="(context, intent) → {" />
-            <marker date="1479218847237" expanded="false" signature="1587:1598" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="1725:1832" ph="(context, intent) → {" />
-            <marker date="1479218847237" expanded="false" signature="1905:1916" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="3082:3217" ph="(buttonView, isChecked) → {" />
-            <marker date="1479218847237" expanded="false" signature="3594:3609" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="4011:4103" ph="(v) → {" />
-            <marker date="1479218847237" expanded="false" signature="4322:4337" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="4868:4921" ph="&quot;Sending&quot;" />
-            <marker date="1479218847237" expanded="false" signature="5207:5277" ph="() → {" />
-            <marker date="1479218847237" expanded="false" signature="7065:7080" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="7233:7290" ph="&quot;Downloading&quot;" />
-            <marker date="1479218847237" expanded="false" signature="7688:7758" ph="() → {" />
-            <marker date="1479218847237" expanded="false" signature="8394:8409" ph="}" />
-            <marker date="1479218847237" expanded="false" signature="8529:8555" ph="&quot;Failed&quot;" />
-            <marker date="1479218847237" expanded="false" signature="9099:9123" ph="&quot;Sent OK&quot;" />
-            <marker date="1479218847237" expanded="false" signature="10034:10060" ph="&quot;Failed&quot;" />
-            <marker date="1479218847237" expanded="false" signature="10980:11010" ph="&quot;Downloaded&quot;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/apis/os/MmsMessagingDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <marker date="1479311164990" expanded="false" signature="1441:1548" ph="(context, intent) → {" />
+            <marker date="1479311164990" expanded="false" signature="1608:1619" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="1746:1853" ph="(context, intent) → {" />
+            <marker date="1479311164990" expanded="false" signature="1926:1937" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="3103:3238" ph="(buttonView, isChecked) → {" />
+            <marker date="1479311164990" expanded="false" signature="3615:3630" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="4032:4124" ph="(v) → {" />
+            <marker date="1479311164990" expanded="false" signature="4343:4358" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="4889:4942" ph="&quot;Sending&quot;" />
+            <marker date="1479311164990" expanded="false" signature="5228:5298" ph="() → {" />
+            <marker date="1479311164990" expanded="false" signature="7086:7101" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="7254:7311" ph="&quot;Downloading&quot;" />
+            <marker date="1479311164990" expanded="false" signature="7709:7779" ph="() → {" />
+            <marker date="1479311164990" expanded="false" signature="8415:8430" ph="}" />
+            <marker date="1479311164990" expanded="false" signature="8550:8576" ph="&quot;Failed&quot;" />
+            <marker date="1479311164990" expanded="false" signature="9120:9144" ph="&quot;Sent OK&quot;" />
+            <marker date="1479311164990" expanded="false" signature="10055:10081" ph="&quot;Failed&quot;" />
+            <marker date="1479311164990" expanded="false" signature="11001:11031" ph="&quot;Downloaded&quot;" />
+          </folding>
         </state>
       </provider>
     </entry>

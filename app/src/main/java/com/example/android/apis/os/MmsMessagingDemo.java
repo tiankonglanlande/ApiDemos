@@ -19,6 +19,7 @@ package com.example.android.apis.os;
 import android.app.Activity;
 
 public class MmsMessagingDemo extends Activity {
+    // TODO 注释防止缺包报错
 /*
     private static final String TAG = "MmsMessagingDemo";
 
